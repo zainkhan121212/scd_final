@@ -124,3 +124,4 @@ class QRCodeGeneratorPage(tk.Frame):
                 messagebox.showinfo("Saved", f"QR code saved as PDF:\n{file_path}")
         else:
             messagebox.showwarning("No QR Code", "Please generate a QR code first.")
+#so there are new cnages
